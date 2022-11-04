@@ -1,0 +1,62 @@
+.sobre-nosotros {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+
+}
+.sobre_nosotros container{
+    display:flex;
+    padding : 30 px;
+    justify-content: right;
+    align-items: flex-end;
+    display:flex;
+}
+.sobre_nosotros__contenido{
+    display:flex;
+    padding : 30 px;
+    justify-content: left;
+    align-items: flex-end;
+
+}
+.iconos{
+    padding : 30px,0;
+
+}
+.sobre_nosotros_titulo {
+    color: var(--fuente-ceniza-oscuro);
+    font-weight: 700;
+    font-size: 1.5rem;
+    font-family: var(--montserrat);
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 1.25rem;
+}
+
+.sobre_nosotros__texto {
+    line-height: normal;
+    margin-bottom: 1rem;
+    vertical-align:top;
+
+
+}
+
+.sobre_nosotros__plataformas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 1rem; 
+    vertical-align: middle;
+
+}
+
+.sobre-nosotros {
+    color: var(--fuente-ceniza-oscuro);
+    font-weight: 700;
+}
+
+.sobre_nosotros_image {
+
+
+    width: 348px;
+    height: 500 px;
+    display: flex;
+}
